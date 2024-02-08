@@ -4,5 +4,5 @@ function power(a, b) {
   }
   
   console.log("Feature Branch 3:");
-  console.log("Power:", power(2, 3));
+  console.log("Power:", power(2, 4));
   
